@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-vit",
+  "version": "1.0.0",
+  "description": "ESLint sharable configuration",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliyR/eslint-config-vit.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Vitaliy Ribachenko <vit@ribachenko.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitaliyR/eslint-config-vit/issues"
+  },
+  "homepage": "https://github.com/VitaliyR/eslint-config-vit#readme",
+  "files": [],
+  "peerDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
