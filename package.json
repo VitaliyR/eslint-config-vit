@@ -1,9 +1,8 @@
 {
   "name": "eslint-config-vit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint sharable configuration",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VitaliyR/eslint-config-vit.git"
