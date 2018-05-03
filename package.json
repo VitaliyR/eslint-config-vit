@@ -20,6 +20,7 @@
   "files": [
     "base.js",
     "browser.js",
+    "browserNext.js",
     "node.js"
   ],
   "peerDependencies": {
